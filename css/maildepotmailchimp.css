@@ -1,0 +1,8 @@
+.mailchimp_subscribe{
+	float: left;
+	margin-right: 10px;
+}
+.mailchimp_error {
+	display: none;
+	color: red;
+}
